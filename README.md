@@ -17,8 +17,8 @@ You need to follow the following instructions to be able to play the game:
 
 ### Game Setup
 
-3. Open Eclipse and import the project
-4. Add the json-simple-1.1.jar file to the project's paths through the following steps:
+1. Open Eclipse and import the project
+2. Add the json-simple-1.1.jar file to the project's paths through the following steps:
      - Right click on project name in the left side-bar
      - Click on properties
      - Click on Java Build Path from the left side-bar of the window that appears
@@ -27,12 +27,12 @@ You need to follow the following instructions to be able to play the game:
      - Browse and select the json-simple-1.1.jar file (it can be found among the project's files)
      - Click on the order and export tab in the center of the window
      - Click on apply and close
-5. Use the same instructions in step 4 to add CharacterLines and Tracks folder to project classpath. However, instead of clicking on Add External Jars, click on add class folder and choose the mentioned folders
-6. Navigate to a folder named "General" from the left side-bar and double click on main
-7. If you want to use sensors while playing, complete the Sensors Setup below
-8. Run the file
-9. When prompted for host IP address and port number, use your phone's IP address and the port number configured on the SensorStreamer application
-10. Enjoy the game 😊
+3. Use the same instructions in step 4 to add CharacterLines and Tracks folder to project classpath. However, instead of clicking on Add External Jars, click on add class folder and choose the mentioned folders
+4. Navigate to a folder named "General" from the left side-bar and double click on main
+5. If you want to use sensors while playing, complete the Sensors Setup below
+6. Run the file
+7. When prompted for host IP address and port number, use your phone's IP address and the port number configured on the SensorStreamer application
+8. Enjoy the game 😊
 
 ### Sensors Setup (Optional)
 
