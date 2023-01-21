@@ -1,0 +1,239 @@
+After a lot of hard work to gather the items, you finally have them all...Your entire period in prison has been leading to this moment...
+
+[PAUSE]
+7
+
+Now you're back at your cell looking around your cell and wondering how in just a couple of hours, you will be a free man
+
+[PAUSE]
+7
+
+It's 20:00 and officers are passing around to take the daily night count;
+
+[TRACK]
+INMATE_COUNT
+
+Night count is now complete...Everybody goes to sleep...
+
+[PAUSE]
+4
+
+[TRACK]
+SNORING
+
+[PAUSE]
+3
+
+However, you're the only one awake...waiting for midnight...waiting for freedom
+
+[TRACK]
+WAITING
+
+[PAUSE]
+3
+
+It's now 00:00 sharp...time to get to work shall we
+
+[PAUSE]
+6
+
+You quickly get dressed into that guard uniform you stole...
+
+[PAUSE]
+7
+
+Before leaving the cell, you quickly glance at yourself in the mirror to see how you look
+
+[PAUSE]
+7
+
+You look exactly like police officers to the level that you start wondering if you should have pursued a career in law enforcement
+
+[PAUSE]
+7
+
+Anyways...once you're ready...you now take out that duplicate key that you crafted from the soap...You proceed to open cell door
+
+[PAUSE]
+7
+
+In your mind, you're like 'OPEN SESAME'
+
+[TRACK]
+UNLOCK_CELL
+
+[PAUSE]
+3
+
+OPEN SESAME indeed
+
+You now start walking around the prison to make your way to the underground storage...we got a distraction to make
+
+[TRACK]
+FOOT_STEPS
+
+You're finally at the underground storage...Place is ready to explode like fireworks on a Chinese New Year's Eve...
+
+[PAUSE]
+8
+
+You take out the matchbox that you stole from the kitchen and light up a match....
+
+[TRACK]
+MATCH_LIT
+
+[PAUSE]
+3
+
+You quickly run away to get out of the blast zone...You head towards the coal field...
+
+[TRACK]
+RUNNING
+
+[PAUSE]
+2
+
+After a few seconds...Prison goes...
+
+[TRACK]
+EXPLOSION
+
+[TRACK]
+ALARM
+
+Explosion was so loud that everyone was awakened from sleep...there was a lot of unrest
+
+[TRACK]
+SHORT_BRAWL
+
+While all officers head to the underground storage to try to put out the fire...You run away in the coal field
+
+[PAUSE]
+7
+
+However, not all escape plans are perfect....There were already some guards in the coal field...
+
+[PAUSE]
+7
+
+When they saw you running and looked closely at you...they realized that you're not actually an officer
+
+[PAUSE]
+7
+
+As they get ready to arrest you...you quickly take out one of those smoke bombs you stole from the armory...
+
+[PAUSE]
+7
+
+You throw one at them...bet they didn't see that coming...they had it coming anyways...
+
+[TRACK]
+SMOKE_BOMB
+
+[PAUSE]
+3
+
+Smoke bomb so intoxicating that everyone goes...
+
+[TRACK]
+COUGH
+
+After inhaling the toxic fumes of the bomb, the guards fall unconsious to the ground...
+
+[TRACK]
+GUARDS_FALLING
+
+[PAUSE]
+5
+
+Like a boss, you start walking to the end of the coal field...right under the warden's office
+
+[PAUSE]
+8
+
+You're finally there...the rope you stole from the execution room finally comes in handy...
+
+[PAUSE]
+8
+
+You throw the rope upwards hoping it hooks into something...guess what...it does...cafuuuu
+
+[TRACK]
+ROPE_THROWING
+
+[PAUSE]
+7
+
+You begin climbing upwards until you make it to the window of the warden's office...
+
+[TRACK]
+CLIMBING
+
+Without hesitiation, blinking, or any second thoughts, you take out the hammer you stole from the workshop and go...
+
+[PAUSE]
+4
+
+[TRACK]
+GlassBreak
+
+Noice...now you're in the warden's office...brooo you're so close to freedom...
+
+[PAUSE]
+8
+
+You open the door to leave the warden's office...
+
+[TRACK]
+OPEN_DOOR
+
+Unsurprisingly, there is nobody around...everyone's busy with the underground storage...
+
+[PAUSE]
+8
+
+You walk towards the entrance...and boom...there is an entrance security guard...You begin panicking
+
+[PAUSE]
+3
+
+[TRACK]
+PANIC
+
+[PAUSE]
+3
+
+[GUARD] Where are you going?
+
+[PAUSE]
+5
+
+[YOU] I was told that there is a prisoner trying to escape...I was instructed to scan the area around prison...
+
+[PAUSE]
+9
+
+[GUARD] Alright...go get em...
+
+[YOU] Will do...
+
+[PAUSE]
+8
+
+To your advantage...the guard was still new so he was still unfamiliar with the faces around...
+
+[PAUSE]
+8
+
+Lucky man...Your mother must have been praying for you...
+
+[PAUSE]
+8
+
+This is it...you're one step away from freedom...You take the leap and you are finally out of prison...YOU'RE NOW A FREE MAN!!!!
+
+[TRACK]
+GANGSTER_PARADISE
+
+[END]
