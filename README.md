@@ -2,7 +2,7 @@
 
 ## Description
 
-An adventurous, open world, text-based role-playing game set in prison. The player spawns in his cell and interacts with surroundings to find clues that can help him escape prison. Additionally, the player can use a phone to
+An adventurous, open world, command line and text based role-playing game set in prison. The player spawns in his cell and interacts with surroundings to find clues that can help him escape prison. Additionally, the player can use a phone to
 punch/dodge during fist fights, play basketball, and lift dumbbells. The game also has a very dynamic nature where the player's actions can influence in-game events. Throughout the game, the player has a good-bad index: good behavior provides greater access to prison rooms while bad behavior frees the player from harrassment by other inmates.
 
 ## How to play the game
